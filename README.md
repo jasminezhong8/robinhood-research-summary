@@ -1,10 +1,8 @@
 # Robinhood: revenue quality and the trading cycle
 
-DRAFT — HUMAN REVIEW REQUIRED
-
 SoSoValue / SoDEX Research
 
-A broader product mix raises a useful question: how much of Robinhood’s performance can persist through a quieter trading cycle? This digest focuses on revenue quality, customer assets and exposure to interest rates.
+Open-source repository for Robinhood (NASDAQ: HOOD) financial analysis, tracking revenue trajectory
 
 ## Selected verified disclosures
 
@@ -18,7 +16,7 @@ Source: [Robinhood Reports Second Quarter 2026 Results](https://investors.robinh
 
 Quarterly results are unaudited. Customer platform assets are distinct from Robinhood’s corporate assets.
 
-## Questions for discussion
+## Key points
 
 - Separate repeat customer relationships from trading-driven activity.
 - Track revenue mix alongside interest-rate sensitivity.
