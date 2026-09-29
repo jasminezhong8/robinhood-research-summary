@@ -2,8 +2,6 @@
 
 SoSoValue / SoDEX Research
 
-Open-source repository for Robinhood (NASDAQ: HOOD) financial analysis, tracking revenue trajectory
-
 ## Selected verified disclosures
 
 | Metric | Value | Period | Basis |
