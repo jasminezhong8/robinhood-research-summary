@@ -1,29 +1,29 @@
-# Robinhood: revenue quality and the trading cycle
+# Robinhood: Revenue Quality and the Trading Cycle
+**SoSoValue / SoDEX Research**
 
-SoSoValue / SoDEX Research
+> **Repository Description:** Research Report on Robinhood (NASDAQ: HOOD): key stats
 
-## Selected verified disclosures
+This repository contains a short digest and selected data tracking the financial and operational trajectory of Robinhood Markets, Inc. The full report remains available on **SoDEX**.
+
+## Core Financial & Operational Metrics
 
 | Metric | Value | Period | Basis |
-|---|---|---|---|
-| Total net revenues | = 1308 USD million | 2026-Q2 | GAAP; unaudited |
-| Funded customers | = 28.4 million customers | 2026-06-30 | Company-defined operating metric |
-| Total platform assets | = 369 USD billion | 2026-06-30 | Company-defined customer/platform asset metric; not corporate assets |
+| :--- | :--- | :--- | :--- |
+| **Total Net Revenues** | \$1,308 Million | 2026-Q2 | GAAP; Unaudited |
+| **Funded Customers** | 28.4 Million | As of 2026-06-30 | Company-defined operating metric |
+| **Total Platform Assets** | \$369 Billion | As of 2026-06-30 | Company-defined platform asset metric (non-corporate) |
 
-Source: [Robinhood Reports Second Quarter 2026 Results](https://investors.robinhood.com/news-releases/news-release-details/robinhood-reports-second-quarter-2026-results). Checked on 2026-09-26.
+*Source: Robinhood Reports Second Quarter 2026 Results. Data verified on 2026-09-26. Quarterly results are unaudited. Customer platform assets are entirely distinct from Robinhood's corporate balance sheet assets.*
 
-Quarterly results are unaudited. Customer platform assets are distinct from Robinhood’s corporate assets.
+## Research Framework
+Our analysis focuses on three central dimensions of Robinhood's business model:
+1. **Ecosystem Diversification:** Tracking how the platform expands beyond commission-free trading into digital assets, retirement accounts, and subscription tiers.
+2. **Product Expansion:** Assessing aggressive expansion efforts directly against underlying operational infrastructure and regulatory compliance costs.
+3. **Monetization Velocity:** Evaluation of average revenue per user growth driven by new trading verticals relative to net new customer acquisition.
 
-## Key points
+## Repository Structure
+*   `report.json`: Contains the structured analytical digest.
+*   `key_metrics.csv`: Contains the underlying selected data points.
 
-- Separate repeat customer relationships from trading-driven activity.
-- Track revenue mix alongside interest-rate sensitivity.
-- Assess product expansion against operating and regulatory costs.
-
-This repository contains a short digest and selected data. The full report remains on [SoDEX](https://sodex.com/rwa/robinhood).
-
-Original report by SoDEX Research Desk. This digest does not reproduce its investment recommendation.
-
-## Files
-
-`report.json` contains the structured digest; `key_metrics.csv` contains the selected data. 
+---
+*Original report by SoDEX Research Desk. This digest does not reproduce or constitute investment recommendations.*
