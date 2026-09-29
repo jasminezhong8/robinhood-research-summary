@@ -3,7 +3,7 @@
 
 > **Repository Description:** Research Report on Robinhood (NASDAQ: HOOD): key stats
 
-This repository contains a short digest and selected data tracking the financial and operational trajectory of Robinhood Markets, Inc. The full report remains available on **SoDEX**.
+This repository contains a short digest and selected data tracking the financial and operational trajectory of Robinhood Markets, Inc. The full report remains available on **SoDEX: https://sodex.com/rwa/robinhood**.
 
 ## Core Financial & Operational Metrics
 
